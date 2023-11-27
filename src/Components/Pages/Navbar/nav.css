@@ -1,0 +1,11 @@
+a{
+    text-decoration: none !important;
+    background-color: white;
+    color: black!important;
+    padding: 10px;
+    margin: 30px;
+}
+.nav{
+    margin-bottom: 60px;
+    background-color: blue;
+}
